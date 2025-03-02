@@ -28,7 +28,7 @@ const Hero = () => {
             }`}
           >
             <img
-              src="/lovable-uploads/sudipa.jpg"
+              src="/lovable-uploads/e6e1eb5e-10d4-4bfd-a3fd-63a499d414d6.png"
               alt="Sudipa Subedi"
               className="w-full h-full object-cover"
             />

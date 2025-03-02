@@ -66,8 +66,8 @@ const Contact = () => {
     {
       icon: <Phone size={24} className="text-primary" />,
       title: "Phone",
-      info: "+977 9867746750",
-      link: "tel:+9779867746750",
+      info: "+977 9864064330",
+      link: "tel:+9779864064330",
     },
     {
       icon: <MapPin size={24} className="text-primary" />,
@@ -213,15 +213,15 @@ const Contact = () => {
                 <ul className="space-y-2 text-foreground/80">
                   <li className="flex items-start">
                     <div className="h-6 w-6 rounded-full bg-primary/20 flex items-center justify-center text-primary mr-3 mt-0.5">✓</div>
-                    <span>Accounting</span>
+                    <span>Water & Wastewater Management</span>
                   </li>
                   <li className="flex items-start">
                     <div className="h-6 w-6 rounded-full bg-primary/20 flex items-center justify-center text-primary mr-3 mt-0.5">✓</div>
-                    <span>Financial Audit</span>
+                    <span>Environmental Impact Assessment</span>
                   </li>
                   <li className="flex items-start">
                     <div className="h-6 w-6 rounded-full bg-primary/20 flex items-center justify-center text-primary mr-3 mt-0.5">✓</div>
-                    <span>Project Management</span>
+                    <span>Sustainable Development</span>
                   </li>
                   <li className="flex items-start">
                     <div className="h-6 w-6 rounded-full bg-primary/20 flex items-center justify-center text-primary mr-3 mt-0.5">✓</div>
